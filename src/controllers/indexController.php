@@ -94,9 +94,13 @@
     </div>
 
     <nav aria-label="Navegación de personajes" class="mt-5">
-      <ul id="pagination-items" class="pagination justify-content-center flex-wrap">
-        </ul>
+      <ul id="pagination-items" class="pagination justify-content-center flex-wrap"></ul>
     </nav>
+
+    <footer class="text-center mt-5 text-secondary">
+      <p>&copy; 2026 Portal de Personajes - Rick and Morty. Todos los derechos reservados.</p>
+      <p> Desarrollado por Jefry Urdaneta. GitHub: <a href="https://github.com/itsJefryTz/portal_web" target="_blank">Code here!</a></p>
+    </footer>
   </div>
 
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>

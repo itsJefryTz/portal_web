@@ -58,6 +58,11 @@
             </div>
           </div>
         </div>
+
+        <footer class="text-center mt-5 text-secondary">
+          <p>&copy; 2026 Portal de Personajes - Rick and Morty. Todos los derechos reservados.</p>
+          <p> Desarrollado por Jefry Urdaneta. GitHub: <a href="https://github.com/itsJefryTz/portal_web" target="_blank">Code here!</a></p>
+        </footer>
       </div>
     </div>
   </div>
